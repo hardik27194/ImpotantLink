@@ -1,0 +1,29 @@
+AFHTTPSessionManager *manager = [AFHTTPSessionManager manager];
+                NSString *combined = [NSString stringWithFormat:@"%@%@", @"https://milanleewayinfotech.000webhostapp.com/chatboth/v1/chat_rooms/",_usersenderID];
+                
+                
+                NSURL *URL = [NSURL URLWithString:combined];
+                manager.requestSerializer=[AFJSONRequestSerializer serializer];
+                //    manager.responseSerializer.acceptableContentTypes=[NSSet setWithObject:@"text/html"];
+                // AFHTTPSessionManager *manager = [AFHTTPSessionManager manager];
+                
+                [manager GET:URL.absoluteString parameters:nil progress:nil success:^(NSURLSessionTask *task, id responseObject) {
+                    // NSLog(@"JSON: %@", responseObject);
+ }];
+ }failure:^(NSURLSessionTask operation, NSError error) {
+                    NSLog(@"Error: %@", error);
+                    
+                    
+                }];
+                AFHTTPSessionManager *manager = [AFHTTPSessionManager manager];
+    NSDictionary *params = @{@"user_id": finaluserid,
+                             @"message": text,
+                             @"to": uploadotheruseridarraystring,
+                             @"chat_room_id":_usersenderID,
+                             @"status":@"0"};
+    [manager POST:combined parameters:params progress:nil success:^(NSURLSessionTask *task, id responseObject) {
+        NSLog(@"JSON: %@", responseObject);
+        [self getdataofmessage];
+    } failure:^(NSURLSessionTask operation, NSError error) {
+        NSLog(@"Error: %@", error);
+    }];
