@@ -1,5 +1,5 @@
 AFHTTPSessionManager *manager = [AFHTTPSessionManager manager];
-                NSString *combined = [NSString stringWithFormat:@"%@%@", @"https://milanleewayinfotech.000webhostapp.com/chatboth/v1/chat_rooms/",_usersenderID];
+                NSString *combined = [NSString stringWithFormat:@"%@%@", @"",_usersenderID];
                 
                 
                 NSURL *URL = [NSURL URLWithString:combined];
