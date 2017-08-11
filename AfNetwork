@@ -1,7 +1,7 @@
 AFHTTPSessionManager *manager = [AFHTTPSessionManager manager];
                 NSString *combined = [NSString stringWithFormat:@"%@%@", @"",_usersenderID];
                 
-                
+             //   https://github.com/wysaid?tab=repositories
                 NSURL *URL = [NSURL URLWithString:combined];
                 manager.requestSerializer=[AFJSONRequestSerializer serializer];
                 //    manager.responseSerializer.acceptableContentTypes=[NSSet setWithObject:@"text/html"];
