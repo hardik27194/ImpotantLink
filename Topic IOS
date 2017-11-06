@@ -1,0 +1,69 @@
+***Controller*** 
+View Controller
+Storyborad Reference 
+Navigation Controller 
+Table View controller
+Collection View Controller
+Tab Bar Controller
+Split View Controller 
+Page View Controller 
+GlKit View Controller 
+AvKit Player View Controller
+Object
+***Controls*** 
+Lable 
+Button  Segmented Control
+TextField
+Slider
+Switch
+Activity Indicator View 
+Progress View
+Page Control 
+Stepper 
+Horizontal Stack View
+Vertical Stack View
+Table View  Table View Cell
+Image View 
+Collection view 
+Collection view reusable View 
+Text View 
+Scroll View 
+Date Picker 
+Picker View
+Visual Effect View With Blur 
+Visual Effect View With Blur  Vibrancy
+Map Kit View	
+Metal kit View 
+Gl Kit view 	
+SceaneKit View
+SpriteKit View
+ArKit SceneKit view 
+Web View (Deprecated)
+WebKit View 
+*** Gesture ***
+Tap Gesture Recognizer
+Pinch Gesture Recognizer
+Rotation Gesture REcognizer
+Swipe Gesture Recognizer 
+Pan Gesture Recogizer 
+Screen Edge Pan Recognizer
+Long Press Gesture Recognizer
+Custome Gesture Recognizer
+*** View ***
+View 
+Container View 
+Navigation Bar 
+Navigation Item
+ ToolBar
+Bar Button Item
+TabBar
+TabBar Item
+Search Bar
+SearchBar and Search Display Controller 
+Fixed Space Bar Button item
+Flexible Space Bar Button Item
+  
+
+
+
+ 
