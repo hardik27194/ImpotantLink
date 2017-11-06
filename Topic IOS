@@ -63,6 +63,91 @@ SearchBar and Search Display Controller
 Fixed Space Bar Button item
 Flexible Space Bar Button Item
   
+Snippet Library
+
+C Block Typedef 
+C inline Block as Variable 
+C Typedef
+C++ Class Declaration 
+C++ Class Template
+C++ Function Template 
+C++ NameSpace Definition
+C++ Try / Catch Block 
+C++ Using Directive 
+Core Data -aWake FromFetch Method
+Core Data -awake FormInsert Method
+Core Data Fetch 
+Core Data Property Accessors (Object type)
+Core Data Property Accessors (Scalar Type)
+Core Data  Property Validation 
+Core Data To Many Relationship  Accessors 
+Do While Statement 
+Enumerate Index Set 
+Enumerate Index Set In Reverse
+Enumerate type Declaration 
+Enumerated Typer Declaration (NS Enum)
+Enumerated Type Declaration (NS_Options)
+ For Statement 
+ GCD Dispatch After 
+GCD Dispatch Source (Timer)
+ If Statement 
+If Else Statement 
+Objective C-Compare  Method 
+Objective C - Dealloc Method
+Objective C- Debug Description Method 
+Objective C- Description  Method 
+Objective C - EncodeWithCoder: method 
+Objective C-init Method  
+Objective C -initWithCoder Method
+Objective C - init WithFrame Method 
+Objective C- is Equal : an  d -hash Method 
+Objective C- +initialise Method 
+Objective C  Autoreleasing Block 
+Objective C  Category
+Objective C Implementation
+Objective C Class Declaration
+Objective C class Extension 
+Objective C  Class Implementation 
+Objective  C Fast Enumeration 
+Objective C KVO Observe Value For Key path 
+Objective c- KVO Value affecting Key 
+Objective c-Protocol Definition 
+Objective c Protocol Definition 
+Objective c Synchronised  Block 
+Objective C- Try - Catch - Finally
+Struct Declaration 
+Swift Api Availability Check Statement  Swift Closure Expression
+Swift Computed Variable Get and Set Declaration 
+Swift Defer Statement 
+Swift Deinitializer Declaration
+Swift Do Catch Statment 
+Swift Enumrated Type Declaration 
+Swift  For Statement 
+Swift Function Statement 
+Swift  Guard Statement 
+Swift Guard  Let Statement 
+Swift If Statement 
+Swift if Else Statement 
+Swift if Let  Statement 
+Swift Import Statement 
+Swift Initializer Declaration 
+Swift Lazy Computed Property Declaration 
+Swift  Lazy Stored Variable 
+Swift let Declaration 
+Swift Protocol 
+Swift Required Initializer
+Swift struct 
+Swift SubClass 
+Swift Switch Statement 
+Swift Test method
+Swift Typealias Declaration 
+Swift Var Declaration 
+Swift While Statement
+Switch Statement 
+Test Method 
+Union Method  Declaration 
+While Statement 
+Objective C init WithFrame Method 
 
 
 
